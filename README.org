@@ -1,0 +1,10 @@
+* UFO
+
+Roswell Script Manager
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ta2gch/UFO.git   |
+| commit  | 2f6e16f  |
+| systems | UFO |
+|---------+-------------------------------------------|
+
